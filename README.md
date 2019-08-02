@@ -1,5 +1,3 @@
-!["Docker Pulls](https://img.shields.io/docker/pulls/hakdogan/jenkins-pipeline.svg)
-[![Analytics](https://ga-beacon.appspot.com/UA-110069051-1/jenkins-pipeline/readme)](https://github.com/igrigorik/ga-beacon)
 
 # A tutorial about Continuous Integration and Continuous Delivery by Dockerize Jenkins Pipeline
 
@@ -106,7 +104,7 @@ jenkins      |
 jenkins      | Jenkins initial setup is required. An admin user has been created and a password generated.
 jenkins      | Please use the following password to proceed to installation:
 jenkins      |
-jenkins      | 45638c79cecd4f43962da2933980197e
+jenkins      | 16cbf8b835994c0b8af82da644e579ce
 jenkins      |
 jenkins      | This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 jenkins      |
